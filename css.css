@@ -1,0 +1,6 @@
+body.CB_consoleUI{padding:0 !important; margin:0 !important;}
+#side-panel,
+#breadcrumbs,
+#cloudbees_footer,
+#bottom-sticker .submit-button,
+#cloudbees_header {display:none !important;}
